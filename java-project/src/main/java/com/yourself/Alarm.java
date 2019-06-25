@@ -1,9 +1,10 @@
 package com.yourself;
 
 public class Alarm {
-    public void Check() {
+    public String check() {
         if (Clock.GetInstance().GetStatus() == 4) {
-            System.out.println("Ring ring ring !");
+            return "Ring ring ring !";
         }
+        return "";
     }
 }

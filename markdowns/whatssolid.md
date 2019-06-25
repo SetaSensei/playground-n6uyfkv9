@@ -20,4 +20,4 @@ Check the online documentation given to you.
 
 # Hands-on Kata
 
-@[Refactor these classes]({"stubs": ["src/main/java/com/yourself/Alarm.java","src/main/java/com/yourself/Clock.java"], "command": "com.yourself.UniverseTest#test"})
+@[Refactor these classes]({"stubs": ["src/main/java/com/yourself/Alarm.java","src/main/java/com/yourself/Clock.java", "src/test/java/com/yourself/AlarmTest.java"], "command": "com.yourself.UniverseTest#test"})
