@@ -10,6 +10,6 @@ public class AlarmTest {
         Alarm alarm = new Alarm();
         String ring = alarm.check();
 
-        assertEquals("", ring);
+        assertEquals("Ring ring ring ring !", ring);
     }
 }
