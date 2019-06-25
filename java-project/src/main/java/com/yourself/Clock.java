@@ -12,7 +12,7 @@ public class Clock {
     }
 
     public int GetStatus() {
-        return 0;
+        return (int) System.currentTimeMillis() % 10;
     }
 
 }
