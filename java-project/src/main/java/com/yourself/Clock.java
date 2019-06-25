@@ -1,10 +1,10 @@
 package com.yourself;
 
-public class Clock {
+public class Clock implements IClock {
 
     private static Clock instance;
 
-    public static Clock GetInstance() {
+    public static IClock GetInstance() {
         if (instance == null) {
             instance = new Clock();
         }

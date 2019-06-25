@@ -1,8 +1,8 @@
-title : Java Maven Project
-
+title : Be SOLID In Java
 # Table of content
 plan:
-  - title: What is SOLID # Set the page title (only displayed if your contribution has several pages)
+  - title: What is SOLID ?
+  # Set the page title (only displayed if your contribution has several pages)
     statement: markdowns/whatssolid.md # Set the file path to the page content
 #  - title: Another Page
 #    statement: markdowns/another-page.md
