@@ -20,4 +20,4 @@ Check the online documentation given to you.
 
 # Hands-on Kata
 
-@[Refactor these classes you cannot change Clock's check() behaviour nor AlarmTest's assertion]({"stubs": ["src/main/java/com/yourself/Alarm.java","src/main/java/com/yourself/IClock.java", "src/test/java/com/yourself/AlarmTest.java"], "command": "com.yourself.AlarmTest#alarmShouldAlwaysRing"})
+@[Refactor these classes so that AlarmTest's assertion is always green. Note you can change the test's code but not the assert part]({"stubs": ["src/main/java/com/yourself/Alarm.java","src/main/java/com/yourself/IClock.java", "src/test/java/com/yourself/AlarmTest.java"], "command": "com.yourself.AlarmTest#alarmShouldAlwaysRing"})
