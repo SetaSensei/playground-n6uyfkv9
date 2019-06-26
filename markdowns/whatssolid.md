@@ -17,7 +17,8 @@ Check the online documentation given to you.
 
 ## Dependency Inversion
 
+## Hands-on Kata
 
-# Hands-on Kata
+Note : this example uses the Mockito framework. You can get general (and sufficient) informations on that mocking framework on the [official site](https://site.mockito.org/#how)
 
 @[Refactor these classes so that AlarmTest's assertion is always green. Note you can change the test's code but not the assert part]({"stubs": ["src/main/java/com/yourself/Alarm.java","src/main/java/com/yourself/IClock.java", "src/test/java/com/yourself/AlarmTest.java"], "command": "com.yourself.AlarmTest#alarmShouldAlwaysRing"})
